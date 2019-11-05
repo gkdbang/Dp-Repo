@@ -16,7 +16,7 @@ public class IndexController {
 		
 		@RequestMapping("/next")
 		public String next(Map<String,Object> model){
-			model.put("message", "You are in new page !!");
+			model.put("NEW MESSAGE", "You are in new page !!");
 			return "next";
 		}
 	
