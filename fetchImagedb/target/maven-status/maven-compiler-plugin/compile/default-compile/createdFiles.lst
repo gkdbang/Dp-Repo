@@ -1,0 +1,3 @@
+com\quinnox\fetchImagedb\Controller\GetCarServlet.class
+com\quinnox\fetchImagedb\dao\CarDao.class
+com\quinnox\fetchImagedb\model\Car.class
