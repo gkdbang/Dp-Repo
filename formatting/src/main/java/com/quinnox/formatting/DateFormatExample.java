@@ -15,9 +15,9 @@ public class DateFormatExample {
 		String date_to_string = ddMMMMyyFormat.format(dateNow);
 		System.out.println("date into yyyy-MM-dd format: " + date_to_string);
 		
-		// This code parse a String to a Date object with the date pattern “dd/MM/yyyy”
+		// This code parse a String to a Date object with the date pattern â€œdd/MM/yyyyâ€�
 		SimpleDateFormat df = new SimpleDateFormat("dd/MM/yyyy");
-		String strDate = "25/03/1990";
+		String strDate = "25/03/1991";
 		try {
 			Date parsedDate=df.parse(strDate);
 			System.out.println("The parsed date is: " + parsedDate);
@@ -26,7 +26,7 @@ public class DateFormatExample {
 			e.printStackTrace();
 		}
 		
-		// This code format a Date object into a String in the pattern “dd/MM/yyyy”
+		// This code format a Date object into a String in the pattern â€œdd/MM/yyyyâ€�
 		String pattren="dd/MM/yyyy";
 		DateFormat dateFormat=new SimpleDateFormat(pattren);
 		Date newDate=new Date();
