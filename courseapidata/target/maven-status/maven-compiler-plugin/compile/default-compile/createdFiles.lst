@@ -1,0 +1,9 @@
+com\gaurav\boot\courseapidata\course\model\Course.class
+com\gaurav\boot\courseapidata\course\courserepository\CourseRepository.class
+com\gaurav\boot\courseapidata\course\service\CourseService.class
+com\gaurav\boot\courseapidata\bootstarter\CourseApiDataSpringBoot.class
+com\gaurav\boot\courseapidata\course\controller\CourseController.class
+com\gaurav\boot\courseapidata\topic\topicrepository\TopicRepository.class
+com\gaurav\boot\courseapidata\topic\controller\TopicController.class
+com\gaurav\boot\courseapidata\topic\model\Topic.class
+com\gaurav\boot\courseapidata\topic\service\TopicService.class

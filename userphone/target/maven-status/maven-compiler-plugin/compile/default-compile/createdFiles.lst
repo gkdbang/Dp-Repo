@@ -1,0 +1,7 @@
+com\gaurav\userphone\repository\UserRepository.class
+com\gaurav\userphone\model\PhoneNumber.class
+com\gaurav\userphone\serviceImpl\UserServiceImpl.class
+com\gaurav\userphone\bootstarter\UserPhoneSpringBoot.class
+com\gaurav\userphone\controller\UserController.class
+com\gaurav\userphone\model\User.class
+com\gaurav\userphone\service\UserService.class
