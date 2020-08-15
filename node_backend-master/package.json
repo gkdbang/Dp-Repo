@@ -1,0 +1,41 @@
+{
+  "name": "CampusPlacementAutomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.600.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "cryptr": "^6.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "loadash": "^1.0.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.3",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.0",
+    "s3": "^4.4.0",
+    "xlsx": "^0.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/campusautomation/node_backend.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/campusautomation/node_backend/issues"
+  },
+  "homepage": "https://gitlab.com/campusautomation/node_backend#readme",
+  "description": ""
+}
